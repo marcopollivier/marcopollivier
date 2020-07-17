@@ -6,7 +6,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcopollivier/)](https://www.linkedin.com/in/marcopollivier/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mollivier.dev@gmail.com)](mailto:mollivier.dev@gmail.com/)
 
-
 ![Clojure Badge](https://img.shields.io/badge/-Clojure-5881D8?style=flat-square&logo=clojure&logoColor=white "Clojure Badge")
 ![Go Badge](https://img.shields.io/badge/-Go%20Lang-00ADD8?style=flat-square&logo=go&logoColor=white "Golang Badge")
 ![Java Badge](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white "Java Badge")
@@ -14,6 +13,9 @@
 
 
 - 🔭 I’m currently working on Nubank
+
+
+
 
 <!--
 **marcopollivier/marcopollivier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
