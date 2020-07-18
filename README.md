@@ -23,6 +23,7 @@ Currently I'm working on [Nubank](https://www.nubank.com.br) as a Software Engin
 
 Here there're some repos of me that you maybe would like to see
 (WIP)
+[Marco's Projects](projects.md)
 
 
 
