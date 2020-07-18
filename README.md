@@ -1,20 +1,25 @@
 # [Marco Paulo Ollivier](https://ollivier.com.br)
 
-### Hi there 👋
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/marcopollivier)](https://github.com/marcopollivier)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcopollivier/)](https://www.linkedin.com/in/marcopollivier/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mollivier.dev@gmail.com)](mailto:mollivier.dev@gmail.com/)
-
 ![Clojure Badge](https://img.shields.io/badge/-Clojure-5881D8?style=flat-square&logo=clojure&logoColor=white "Clojure Badge")
 ![Go Badge](https://img.shields.io/badge/-Go%20Lang-00ADD8?style=flat-square&logo=go&logoColor=white "Golang Badge")
 ![Java Badge](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white "Java Badge")
 ![JS Badge](http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white "JS Badge")
 
+### Hi there 👋
 
-- 🔭 I’m currently working on Nubank
+Hi. My name is Marco Ollivier. 
 
+I'm a Software Engineer focused on backend development. During my career, I focused to create solutions based on Java, Golang, JavaScript, and Clojure.
 
+In 2019 I decided to get more involved in the Software Development Community and with two friends we redesigned the Golang users group in Rio de Janeiro city. 
+The GopheRio Meetup was a great achievement for us and the developers community in Rio.
+
+Currently I'm working on [Nubank](https://www.nubank.com.br) as a Software Engineer. 
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/marcopollivier)](https://github.com/marcopollivier)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcopollivier/)](https://www.linkedin.com/in/marcopollivier/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mollivier.dev@gmail.com)](mailto:mollivier.dev@gmail.com/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/marcopollivier)](https://twitter.com/marcopollivier)
 
 
 <!--
