@@ -21,6 +21,10 @@ Currently I'm working on [Nubank](https://www.nubank.com.br) as a Software Engin
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mollivier.dev@gmail.com)](mailto:mollivier.dev@gmail.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/marcopollivier)](https://twitter.com/marcopollivier)
 
+Here there're some repos of me that you maybe would like to see
+(WIP)
+
+
 
 <!--
 **marcopollivier/marcopollivier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
