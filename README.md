@@ -3,7 +3,7 @@
 ![Clojure Badge](https://img.shields.io/badge/-Clojure-5881D8?style=flat-square&logo=clojure&logoColor=white "Clojure Badge")
 ![Go Badge](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white "Golang Badge")
 ![Java Badge](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white "Java Badge")
-![JS Badge](http://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white "JS Badge")
+![JS Badge](http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white "JS Badge")
 
 ### Hi there 👋
 
