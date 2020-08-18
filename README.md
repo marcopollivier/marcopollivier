@@ -5,16 +5,16 @@
 [![Java Badge](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white "Java Badge")](https://github.com/marcopollivier/whoamivertx)
 [![JS Badge](http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white "JS Badge")](https://github.com/marcopollivier/whoaminode)
 
-### Hi there 👋
+### Hi there 👋 (WIP)
 
 Hi. My name is Marco Ollivier. 
 
-I'm a Software Engineer focused on backend development. During my career, I focused to create solutions based on Java, Golang, JavaScript, and Clojure.
+I'm a Software Engineer focused on backend development. During my career, I created solutions based on Java, Golang, JavaScript, and Clojure technologies.
 
 In 2019 I decided to get more involved in the Software Development Community and with two friends we redesigned the Golang users group in Rio de Janeiro city. 
 The GopheRio Meetup was a great achievement for us and the developers community in Rio.
 
-Currently I'm working on [Nubank](https://www.nubank.com.br) as a Software Engineer. 
+Currently, I'm working on [Nubank](https://www.nubank.com.br) as a Software Engineer. 
 
 [Perfil TDC](https://thedevconf.com/palestrante/marco-ollivier) 
 
