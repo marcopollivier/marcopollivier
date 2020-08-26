@@ -12,7 +12,7 @@ Hi. My name is Marco Ollivier.
 I'm a Software Engineer focused on backend development. During my career, I created solutions based on Java, Golang, JavaScript, and Clojure technologies.
 
 In 2019 I decided to get more involved in the Software Development Community and with two friends we redesigned the Golang users group in Rio de Janeiro city. 
-The GopheRio Meetup was a great achievement for us and the developers community in Rio.
+The [GopheRio Meetup](https://www.meetup.com/GopheRio/) was a great achievement for us and the developers community in Rio.
 
 Currently, I'm working on [Nubank](https://www.nubank.com.br) as a Software Engineer. 
 
