@@ -54,7 +54,18 @@ You can see a part of my material in the links below.
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&link=https://open.spotify.com/user/marcopollivier)](https://open.spotify.com/user/marcopollivier)
 
 
+--- 
 
+<details open>
+    <summary>⚙ <b>GitHub Analytics</b>: </summary>
+    <br>
+    <p align="center">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marcopollivier&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marcopollivier&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    </p>
+</details>
+
+<br>
 
 
 <!--
