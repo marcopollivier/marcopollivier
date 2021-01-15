@@ -67,6 +67,14 @@ You can see a part of my material in the links below.
 
 <br>
 
+<details>
+    <summary>🔨 <b>Some cool projects that you might checkout</b>: </summary>
+    <br>
+    <p align="center">
+        <a href="https://github.com/marcopollivier/big-bang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcopollivier&repo=big-bang&theme=tokyonight"/></a>
+        <a href="https://github.com/marcopollivier/playbooks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcopollivier&repo=playbooks&theme=tokyonight"/></a>
+    </p>
+</details>
 
 <!--
 
