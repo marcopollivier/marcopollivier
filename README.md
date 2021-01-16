@@ -29,7 +29,7 @@ In 2019 I decided to get more involved in the Software Development Community and
 The [GopheRio Meetup](https://www.meetup.com/GopheRio/) was a great achievement for us and the developers community in Rio.
 
 <p>
-Currently, I'm working on [Nubank](https://www.nubank.com.br) as a Software Engineer. 
+  Currently, I'm working on <a href="https://www.nubank.com.br">Nubank</a> as a Software Engineer. 
 </p>
 
 <p>
