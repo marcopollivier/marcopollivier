@@ -67,6 +67,7 @@ You can see a part of my material in the links below.
 
 <br>
 
+<!--
 <details>
     <summary>🔨 <b>Some cool projects that you might checkout</b>: </summary>
     <br>
@@ -79,6 +80,7 @@ You can see a part of my material in the links below.
       </a>
     </p>
 </details>
+-->
 
 ---
 
@@ -90,8 +92,6 @@ You can see a part of my material in the links below.
 
 
 <!--
-
 https://shields.io/category/social
 https://simpleicons.org/
-
 -->
