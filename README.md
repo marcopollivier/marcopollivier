@@ -31,26 +31,19 @@
   </p>
 </div>
 
+In 2019 I decided to get more involved in the Software Development Community and with two friends, [Caio Everest](https://github.com/caioeverest) and [Fernando Soliva](https://github.com/solivaf), we redesigned the Golang users group in Rio de Janeiro city. 
+The [GopheRio Meetup](https://www.meetup.com/GopheRio/) was a great achievement for us and the developers community in Rio.
+
+<p>Currently, I'm working at <a href="https://www.nubank.com.br">Nubank</a> as a Software Engineer.</p>
 
 <p>
-  In 2019 I decided to get more involved in the Software Development Community and with two friends, [Caio Everest](https://github.com/caioeverest) and [Fernando Soliva](https://github.com/solivaf), we redesigned the Golang users group in Rio de Janeiro city. 
-  The [GopheRio Meetup](https://www.meetup.com/GopheRio/) was a great achievement for us and the developers community in Rio.
-</p>
+  I love to share knowledge.
+  And along with the initiative to redesign the Go community in Rio, 
+  I also started to be more participative in other communities and events.
+  You can see a part of my material in the links below.
 
-<p>
-  Currently, I'm working at <a href="https://www.nubank.com.br">Nubank</a> as a Software Engineer. 
-</p>
-
-<p>
-
-I love to share knowledge.
-And along with the initiative to redesign the Go community in Rio, 
-I also started to be more participative in other communities and events.
-You can see a part of my material in the links below.
-
-- [TDC Profile](https://thedevconf.com/palestrante/marco-ollivier) 
-- [Traefik Presentation on InfoQ](https://www.infoq.com/br/presentations/traefik-proxy-poderoso-confiavel-producao/?itm_source=infoq&itm_campaign=user_page&itm_medium=link)
-
+  - [TDC Profile](https://thedevconf.com/palestrante/marco-ollivier) 
+  - [Traefik Presentation on InfoQ](https://www.infoq.com/br/presentations/traefik-proxy-poderoso-confiavel-producao/?itm_source=infoq&itm_campaign=user_page&itm_medium=link)
 </p>
 
 
@@ -61,7 +54,6 @@ You can see a part of my material in the links below.
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white&link=https://youtube.com/marcopollivier)](https://youtube.com/marcopollivier)
 [![Dev.to Badge](https://img.shields.io/badge/-Dev.to-363D44?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/marcopollivier)](https://dev.to/marcopollivier)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&link=https://open.spotify.com/user/marcopollivier)](https://open.spotify.com/user/marcopollivier)
-
 
 --- 
 
