@@ -17,16 +17,25 @@
 
 ### Hi there 👋
 
-Hi. My name is Marco Ollivier. 
+<div>  
+  <img align="right" src="https://media.tenor.com/images/523867fba2a5e8e32703d916728e02bf/tenor.gif"/>
+  
+  <p>Hi. My name is Marco Ollivier.</p>
+
+  <p>
+    I have a degree in Systems Analysis from the Infnet Institute in Rio de Janeiro. 
+    I have been working with software development since 2010. 
+    Today I work as a Software Engineer at Nubank. 
+    During my career, I worked with technologies like Java, Go, Clojure and JavaScript. 
+    I am also one of the organizers of the Meetup GopheRio aimed at the Go community in Rio de Janeiro.
+  </p>
+</div>
+
 
 <p>
-I'm a Software Engineer focused on backend development. 
-During my career, I created solutions based on Java, Golang, JavaScript, and Clojure technologies.
+  In 2019 I decided to get more involved in the Software Development Community and with two friends, [Caio Everest](https://github.com/caioeverest) and [Fernando Soliva](https://github.com/solivaf), we redesigned the Golang users group in Rio de Janeiro city. 
+  The [GopheRio Meetup](https://www.meetup.com/GopheRio/) was a great achievement for us and the developers community in Rio.
 </p>
-
-
-In 2019 I decided to get more involved in the Software Development Community and with two friends, [Caio Everest](https://github.com/caioeverest) and [Fernando Soliva](https://github.com/solivaf), we redesigned the Golang users group in Rio de Janeiro city. 
-The [GopheRio Meetup](https://www.meetup.com/GopheRio/) was a great achievement for us and the developers community in Rio.
 
 <p>
   Currently, I'm working at <a href="https://www.nubank.com.br">Nubank</a> as a Software Engineer. 
@@ -66,21 +75,6 @@ You can see a part of my material in the links below.
 </details>
 
 <br>
-
-<!--
-<details>
-    <summary>🔨 <b>Some cool projects that you might checkout</b>: </summary>
-    <br>
-    <p align="center">
-      <a href="https://github.com/marcopollivier/big-bang">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcopollivier&repo=big-bang&theme=tokyonight"/>
-      </a>
-      <a href="https://github.com/marcopollivier/playbooks">
-        <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcopollivier&repo=playbooks&theme=tokyonight"/>
-      </a>
-    </p>
-</details>
--->
 
 <p align="center">
     <a href="https://www.buymeacoffee.com/marcopollivier" target="_blank">
