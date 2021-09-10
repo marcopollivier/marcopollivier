@@ -1,4 +1,6 @@
-<h1>Marco Paulo Ollivier</h1>
+<h1>Marco Paulo Ollivier</h1> 
+
+[![Profile Views Counter](https://komarev.com/ghpvc/?username=marcopollivier&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter) 
 
 <a href="https://github.com/marcopollivier/whoamiclojure">
   <img src="https://img.shields.io/badge/-Clojure-5881D8?style=flat-square&logo=clojure&logoColor=white">
