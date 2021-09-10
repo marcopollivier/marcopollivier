@@ -108,7 +108,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/marcopollivier)](https://twitter.com/marcopollivier)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white&link=https://youtube.com/marcopollivier)](https://youtube.com/marcopollivier)
 [![Dev.to Badge](https://img.shields.io/badge/-Dev.to-363D44?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/marcopollivier)](https://dev.to/marcopollivier)
+
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&link=https://open.spotify.com/user/marcopollivier)](https://open.spotify.com/user/marcopollivier)
+[![Last.FM Last Played Song](https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/marcopollivier/latest-song?format=shields.io)](https://github.com/biancarosa/lastfm-last-played)
 
 --- 
 
