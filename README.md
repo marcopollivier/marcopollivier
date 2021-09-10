@@ -30,8 +30,8 @@
     Também sou um dos organizadores do Meetup GopherRio voltado para comunidade de desenvolvedores Go do Rio de Janeiro
     <br>
     Em 2019 eu decidi que queria me envolver mais na comunidade de desenvolvimento de softwares e, com dois amigos, 
-    <a href="https://github.com/caioeverest">Caio Everest</a> e
-    <a href="https://github.com/solivaf">Fernando Soliva</a>, 
+    <a href="https://github.com/caioeverest">@caioeverest</a> e
+    <a href="https://github.com/solivaf">@solivaf</a>, 
     nós repensamos o modelo do grupo de usuários de Golang do Rio de Janeiro
     <br>
     O <a href="https://www.meetup.com/GopheRio">Meetup GopheRio</a> foi uma grande conquista para nos e para toda comunidade de desenvolvimento do Rio de Janeiro
@@ -65,8 +65,8 @@
 
   <p>
     In 2019 I decided to get more involved in the Software Development Community and with two friends, 
-    <a href="https://github.com/caioeverest">Caio Everest</a> and 
-    <a href="https://github.com/solivaf">Fernando Soliva</a>, 
+    <a href="https://github.com/caioeverest">@caioeverest</a> and 
+    <a href="https://github.com/solivaf">@solivaf</a>, 
     we redesigned the Golang users group in Rio de Janeiro city. 
     The <a href="https://www.meetup.com/GopheRio">GopheRio Meetup</a> was a great achievement for us and the developers community in Rio.
   </p>
