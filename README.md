@@ -11,6 +11,8 @@
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&link=https://open.spotify.com/user/marcopollivier)](https://open.spotify.com/user/marcopollivier)
 [![Last.FM Last Played Song](https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/marcopollivier/latest-song?format=shields.io)](https://github.com/biancarosa/lastfm-last-played)
 
+> :warning: Oi oi oi. :) Já que você está por aqui, caso esse perfil tenha sido útil para você, o que acha de me indicar para o **[Github Stars](https://stars.github.com/)**. Sua indicação seria muito importante para mim? 
+
 <h3>Olar 👋</h3>
 
 <div>  
