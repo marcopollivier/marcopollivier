@@ -26,7 +26,7 @@
   </p>
   
   <p>
-    Trabalho com desenvolvimento de softwares desde 2020 e atualmente estou trabalhando no <a href="https://www.nubank.com.br">Nubank</a> como Senior Software Engineer.
+    Trabalho com desenvolvimento de softwares desde 2010 e atualmente estou trabalhando no <a href="https://www.nubank.com.br">Nubank</a> como Senior Software Engineer.
   </p>
 
   <p>
