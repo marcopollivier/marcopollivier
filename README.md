@@ -1,7 +1,6 @@
 # Marco Paulo Ollivier 
 [![Profile Views Counter](https://komarev.com/ghpvc/?username=marcopollivier&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter) 
 
-[![Github Badge Classes](https://img.shields.io/badge/-Github%20Classes-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/marcopollivier-classes)](https://github.com/marcopollivier-classes)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcopollivier/)](https://www.linkedin.com/in/marcopollivier/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/marcopollivier)](https://twitter.com/marcopollivier)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white&link=https://youtube.com/marcopollivier)](https://youtube.com/marcopollivier)
