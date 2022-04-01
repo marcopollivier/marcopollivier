@@ -1,15 +1,14 @@
 # Marco Paulo Ollivier 
 [![Profile Views Counter](https://komarev.com/ghpvc/?username=marcopollivier&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter) 
 
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&link=https://open.spotify.com/user/marcopollivier)](https://open.spotify.com/user/marcopollivier)
+[![Last.FM Last Played Song](https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/marcopollivier/latest-song?format=shields.io)](https://github.com/biancarosa/lastfm-last-played)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcopollivier/)](https://www.linkedin.com/in/marcopollivier/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/marcopollivier)](https://twitter.com/marcopollivier)
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white&link=https://youtube.com/marcopollivier)](https://youtube.com/marcopollivier)
 [![Dev.to Badge](https://img.shields.io/badge/-Dev.to-363D44?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/marcopollivier)](https://dev.to/marcopollivier)
-
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mollivier.dev@gmail.com)](mailto:mollivier.dev@gmail.com/)
-
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&link=https://open.spotify.com/user/marcopollivier)](https://open.spotify.com/user/marcopollivier)
-[![Last.FM Last Played Song](https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/marcopollivier/latest-song?format=shields.io)](https://github.com/biancarosa/lastfm-last-played)
 
 
 <h3>Olar 👋</h3>
@@ -20,7 +19,7 @@
   <p>Olá! Meu nome é Marco Ollivier.</p>
 
   <p>
-    Eu sou graduado em Análise e Desenvolvimento de Sistemas pelo Instituto Infnet do Rio de Janeiro.
+    Sou graduado em Análise e Desenvolvimento de Sistemas pelo Instituto Infnet do Rio de Janeiro.
   </p>
   
   <p>
@@ -54,17 +53,11 @@
 
   <p>
       I have a degree in Systems Analysis from the Infnet Institute in Rio de Janeiro. 
-      I have been working with software development since 2010.
-  </p>
-  <p>
-      Currently, I'm working at <a href="https://www.nubank.com.br">Nubank</a> as a Senior Software Engineer.
-  </p>
-  <p>
-      During my career, I worked with technologies like Java, Go, Clojure and JavaScript. 
-      I am also one of the organizers of the Meetup GopheRio aimed at the Go community in Rio de Janeiro.
+      I have been working with software development since 2010 and currently, I'm working at <a href="https://www.nubank.com.br">Nubank</a> as a Senior Software Engineer.
   </p>
 
   <p>
+    I am also one of the organizers of the GopherRio Meetup aimed at the Go developer community in Rio de Janeiro
     In 2019 I decided to get more involved in the Software Development Community and with two friends, 
     <a href="https://github.com/caioeverest">@caioeverest</a> and 
     <a href="https://github.com/solivaf">@solivaf</a>, 
@@ -80,8 +73,10 @@
 </details>
 
 
-
 <ul>
+  <li>
+    <a href="https://marcopollivier.dev">My perfonal site</a>
+  </li>
   <li>
     <a href="https://thedevconf.com/palestrante/marco-ollivier">TDC Profile</a>
   </li>
