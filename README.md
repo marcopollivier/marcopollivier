@@ -72,18 +72,20 @@
   
 </details>
 
-
+<details close>
+<summary>Outros links</summary>
 <ul>
   <li>
-    <a href="https://marcopollivier.dev">My perfonal site</a>
+    <a href="https://marcopollivier.dev">Site pessoal</a>
   </li>
   <li>
     <a href="https://thedevconf.com/palestrante/marco-ollivier">TDC Profile</a>
   </li>
   <li>
-    <a href="https://www.infoq.com/br/presentations/traefik-proxy-poderoso-confiavel-producao">Traefik Presentation on InfoQ</a>
+    <a href="https://www.infoq.com/br/presentations/traefik-proxy-poderoso-confiavel-producao">[InfoQ] Talk sobre Traefik na GopherCon Brasil 2019</a>
   </li>
 </ul>
+</details>
 
 <a href="https://github.com/marcopollivier/whoamiclojure">
   <img src="https://img.shields.io/badge/-Clojure-5881D8?style=flat-square&logo=clojure&logoColor=white">
