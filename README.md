@@ -120,9 +120,8 @@
 <br>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/marcopollivier" target="_blank">
-    <img src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=a" alt="Buy Me A Coffee" width="173em">
-  </a>
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
+  <script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'M4M2C2DQ1');kofiwidget2.draw();</script> 
 </p>
 
 
