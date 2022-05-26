@@ -126,3 +126,7 @@
 https://shields.io/category/social
 https://simpleicons.org/
 -->
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
