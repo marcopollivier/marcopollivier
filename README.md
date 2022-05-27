@@ -119,6 +119,28 @@
 
 <br>
 
+<details open>
+  <summary><b>Padrão de nome dos Repos</b></summary>
+    
+  <ul>
+    <li>
+      Projetos que começam com <b>classroom</b> são cursos ou tutoriais
+    </li>
+    <li>
+      Projetos que começam com <b>practice</b> são projetos introdutórios de algum conceito ou tecnologia
+    </li>
+    <li>
+      Os outros projetos são libs que estou colocando em prática
+    </li>
+  </ul>
+  
+  Os projetos ainda estão em fase de organização 
+ 
+  
+</details>
+
+<br>
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M2C2DQ1)
 
 
