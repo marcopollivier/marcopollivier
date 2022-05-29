@@ -126,13 +126,13 @@
     <li> Projetos que começam com </li>
     <ul>
         <li>
-          <b>classroom*</b>: são cursos ou tutoriais
+          <b><u>classroom*</u></b>: são cursos ou tutoriais
         </li>      
         <li>
-          <b>practice*:</b> são projetos introdutórios de algum conceito ou tecnologia
+          <b><u>practice*</u></b>: são projetos introdutórios de algum conceito ou tecnologia
         </li>
         <li>
-          <b>practice-{nome da instituicao}*:</b> são projetos introdutórios de algum conceito ou tecnologia orientados a algum curso que estou fazendo
+          <u><b>practice-{nome da instituicao}*</b></u>: são projetos introdutórios de algum conceito ou tecnologia orientados a algum curso que estou fazendo
         </li>      
       </ul>
     <li>Os outros projetos são libs que estou colocando em prática</li>
