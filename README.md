@@ -123,16 +123,21 @@
   <summary><b>Padrão de nome dos Repos</b></summary>
     
   <ul>
-    <li>
-      Projetos que começam com <b>classroom</b> são cursos ou tutoriais
-    </li>
-    <li>
-      Projetos que começam com <b>practice</b> são projetos introdutórios de algum conceito ou tecnologia
-    </li>
-    <li>
-      Os outros projetos são libs que estou colocando em prática
-    </li>
+    <li> Projetos que começam com </li>
+    <ul>
+        <li>
+          <b>classroom*</b>: são cursos ou tutoriais
+        </li>      
+        <li>
+          <b>practice*:</b> são projetos introdutórios de algum conceito ou tecnologia
+        </li>
+        <li>
+          <b>practice-{nome da instituicao}*:</b> são projetos introdutórios de algum conceito ou tecnologia orientados a algum curso que estou fazendo
+        </li>      
+      </ul>
+    <li>Os outros projetos são libs que estou colocando em prática</li>
   </ul>
+  
   
   Os projetos ainda estão em fase de organização 
  
