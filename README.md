@@ -127,7 +127,10 @@
     <ul>
         <li>
           <b><u>classroom*</u></b>: são cursos ou tutoriais
-        </li>      
+        </li>
+        <li>
+          <b><u>mentor*</u></b>: projetos orientados a questões de mentorias
+        </li>
         <li>
           <b><u>practice*</u></b>: são projetos introdutórios de algum conceito ou tecnologia
         </li>
