@@ -106,6 +106,8 @@
   <img src="http://img.shields.io/badge/-Ansible-171615?style=flat-square&logo=Ansible&logoColor=white">
 </a>
 
+[![wakatime](https://wakatime.com/badge/user/99bbc792-f01b-40d9-841c-38b6715ca146.svg)](https://wakatime.com/@99bbc792-f01b-40d9-841c-38b6715ca146)
+
 --- 
 
 <details open>
