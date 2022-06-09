@@ -14,7 +14,9 @@
 <h3>Olar 👋</h3>
 
 <div>  
-  <img align="right" src="https://media.tenor.com/images/523867fba2a5e8e32703d916728e02bf/tenor.gif"/>
+<!--   <img align="right" src="https://media.tenor.com/images/523867fba2a5e8e32703d916728e02bf/tenor.gif"/> -->
+  <img align="right" src="  https://c.tenor.com/E-e0teqEbLEAAAAC/hi-children.gif"/>
+
   
   <p>Olá! Meu nome é Marco Ollivier.</p>
 
