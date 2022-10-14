@@ -150,7 +150,7 @@
 
 <br>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M2C2DQ1)
+
 
 
 <figure><embed src="https://wakatime.com/share/@marcopollivier/55eb5116-3f35-4dc7-8d9b-c267ff6a004c.svg"></embed></figure>
