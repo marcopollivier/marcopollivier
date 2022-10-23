@@ -93,7 +93,7 @@
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white">
 </a>
 <a href="https://github.com/marcopollivier/whoamivertx">
-  <img src="http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white">
+  <img src="http://img.shields.io/badge/-Java-007396?style=flat-square&logo=OpenJDK&logoColor=white">
 </a>
 <a href="https://github.com/marcopollivier/whoaminode">
   <img src="http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
