@@ -86,24 +86,6 @@
 </ul>
 </details>
 
-<a href="https://github.com/marcopollivier/whoamiclojure">
-  <img src="https://img.shields.io/badge/-Clojure-5881D8?style=flat-square&logo=clojure&logoColor=white">
-</a>
-<a href="https://github.com/marcopollivier/whoamigo">
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white">
-</a>
-<a href="https://github.com/marcopollivier/whoamivertx">
-  <img src="http://img.shields.io/badge/-Java-007396?style=flat-square&logo=OpenJDK&logoColor=white">
-</a>
-<a href="https://github.com/marcopollivier/whoaminode">
-  <img src="http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-</a>
-<a href="#">
-  <img src="http://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=Terraform&logoColor=white">
-</a>
-<a href="#">
-  <img src="http://img.shields.io/badge/-Ansible-171615?style=flat-square&logo=Ansible&logoColor=white">
-</a>
 
 [![My Skills](https://skillicons.dev/icons?i=go,js,ts,clojure,java,aws,docker,git,github,ansible,terraform)](https://skillicons.dev)
 
