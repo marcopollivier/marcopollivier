@@ -105,7 +105,7 @@
   <img src="http://img.shields.io/badge/-Ansible-171615?style=flat-square&logo=Ansible&logoColor=white">
 </a>
 
-[![My Skills](https://skillicons.dev/icons?i=clojure,go,java,js,terraform,ansible)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,js,ts,clojure,java,aws,docker,git,github,ansible,terraform)](https://skillicons.dev)
 
 
 [![wakatime](https://wakatime.com/badge/user/99bbc792-f01b-40d9-841c-38b6715ca146.svg)](https://wakatime.com/@99bbc792-f01b-40d9-841c-38b6715ca146)
