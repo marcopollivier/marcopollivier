@@ -1,4 +1,4 @@
-# Marco Paulo Ollivier 
+# Marco Ollivier 
 [![Profile Views Counter](https://komarev.com/ghpvc/?username=marcopollivier&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter) 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcopollivier/)](https://www.linkedin.com/in/marcopollivier/)
