@@ -140,6 +140,8 @@
 
 <figure><embed src="https://wakatime.com/share/@marcopollivier/55eb5116-3f35-4dc7-8d9b-c267ff6a004c.svg"></embed></figure>
 
+<figure><embed src="https://wakatime.com/share/@marcopollivier/a5d8deb5-85af-463e-9297-7ca4bc8910b5.svg"></embed></figure>
+
 <!--
 https://shields.io/category/social
 https://simpleicons.org/
