@@ -92,6 +92,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/99bbc792-f01b-40d9-841c-38b6715ca146.svg)](https://wakatime.com/@99bbc792-f01b-40d9-841c-38b6715ca146)
 
+[![wakatime]([https://wakatime.com/badge/user/99bbc792-f01b-40d9-841c-38b6715ca146.svg](https://wakatime.com/share/@marcopollivier/a5d8deb5-85af-463e-9297-7ca4bc8910b5.svg))](https://wakatime.com/@99bbc792-f01b-40d9-841c-38b6715ca146)
+
+
 --- 
 
 <details open>
