@@ -115,32 +115,26 @@
       <th>Prefix</th>
       <th>Description</th>
     </tr>
-
     <tr>
       <th>class.*</th>
       <td>Repositórios base para turmas dos meus cursos</td>
     </tr>
-
     <tr>
       <th>mentoring.*</th>
       <td>Projetos base para meus mentorados</td>
     </tr>
-
     <tr>
       <th>practice.*</th>
       <td>São projetos introdutórios de algum conceito ou tecnologia</td>
     </tr>
-
     <tr>
       <th>practice.{nome da instituicao}.*</th>
       <td>São projetos introdutórios de algum conceito ou tecnologia orientados a algum curso que estou fazendo</td>
     </tr>
-
     <tr>
       <th>learn.{nome da instituicao}.*</th>
       <td>Repositórios de projetos de cursos e formações que eu fiz/faço</td>
     </tr>
-
   </table>
   
   
