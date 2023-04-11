@@ -122,23 +122,22 @@
       <td>Repositórios base para turmas dos meus cursos</td>
     </tr>
     <tr>
-      <th>mentoring.*</th>
+      <th>
+        <a href="https://github.com/marcopollivier?tab=repositories&q=mentoring.&type=&language=&sort=name">mentoring.*</a>
+      </th>
       <td>Projetos base para meus mentorados</td>
     </tr>
     <tr>
-      <th>practice.*</th>
+      <th>
+        <a href="https://github.com/marcopollivier?tab=repositories&q=practice.&type=&language=&sort=name">practice.*</a>
+      </th>
       <td>São projetos introdutórios de algum conceito ou tecnologia</td>
     </tr>
     <tr>
-      <th>learn.{nome da instituicao}.*</th>
+      <a href="https://github.com/marcopollivier?tab=repositories&q=learn.&type=&language=&sort=name">learn.*</a>
       <td>Repositórios de projetos de cursos e formações que eu fiz/faço</td>
     </tr>
   </table>
-  
-  
-  Os projetos ainda estão em fase de organização 
- 
-  
 </details>
 
 <br>
