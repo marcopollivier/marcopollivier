@@ -131,7 +131,7 @@
       <th>
         <a href="https://github.com/marcopollivier?tab=repositories&q=practice.&type=&language=&sort=name">practice.*</a>
       </th>
-      <td>São projetos introdutórios de algum conceito ou tecnologia</td>
+      <td>São projetos introdutórios de algum conceito ou tecnologia. Também vai ser usado pra base de talks, textos etc</td>
     </tr>
     <tr>
       <th>
