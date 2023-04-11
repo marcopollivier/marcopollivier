@@ -134,7 +134,9 @@
       <td>São projetos introdutórios de algum conceito ou tecnologia</td>
     </tr>
     <tr>
-      <a href="https://github.com/marcopollivier?tab=repositories&q=learn.&type=&language=&sort=name">learn.*</a>
+      <th>
+        <a href="https://github.com/marcopollivier?tab=repositories&q=learn.&type=&language=&sort=name">learn.*</a>
+      </th>
       <td>Repositórios de projetos de cursos e formações que eu fiz/faço</td>
     </tr>
   </table>
