@@ -110,24 +110,38 @@
 <details open>
   <summary><b>Padrão de nome dos Repos</b></summary>
     
-  <ul>
-    <li> Projetos que começam com </li>
-    <ul>
-        <li>
-          <b><u>class.*</u></b>: são cursos ou tutoriais
-        </li>
-        <li>
-          <b><u>mentoring.*</u></b>: projetos orientados a questões de mentorias
-        </li>
-        <li>
-          <b><u>practice.*</u></b>: são projetos introdutórios de algum conceito ou tecnologia
-        </li>
-        <li>
-          <u><b>practice.{nome da instituicao}.*</b></u>: são projetos introdutórios de algum conceito ou tecnologia orientados a algum curso que estou fazendo
-        </li>      
-      </ul>
-    <li>Os outros projetos são libs que estou colocando em prática</li>
-  </ul>
+  <table style="width:100%">
+    <tr>
+      <th>Prefix</th>
+      <th>Description</th>
+    </tr>
+
+    <tr>
+      <th>class.*</th>
+      <td>Repositórios base para turmas dos meus cursos</td>
+    </tr>
+
+    <tr>
+      <th>mentoring.*</th>
+      <td>Projetos base para meus mentorados</td>
+    </tr>
+
+    <tr>
+      <th>practice.*</th>
+      <td>São projetos introdutórios de algum conceito ou tecnologia</td>
+    </tr>
+
+    <tr>
+      <th>practice.{nome da instituicao}.*</th>
+      <td>São projetos introdutórios de algum conceito ou tecnologia orientados a algum curso que estou fazendo</td>
+    </tr>
+
+    <tr>
+      <th>learn.{nome da instituicao}.*</th>
+      <td>Repositórios de projetos de cursos e formações que eu fiz/faço</td>
+    </tr>
+
+  </table>
   
   
   Os projetos ainda estão em fase de organização 
