@@ -19,11 +19,11 @@
   <p>Olá! Meu nome é Marco Ollivier.</p>
 
   <p>
-    Sou graduado em Análise e Desenvolvimento de Sistemas pelo Instituto Infnet do Rio de Janeiro.
+    Sou graduado em Análise e Desenvolvimento de Sistemas pelo [Instituto Infnet](https://faculdadeinfnet.com.br/faculdade/analise-e-desenvolvimento-de-sistemas/) do Rio de Janeiro.
   </p>
   
   <p>
-    Trabalho com desenvolvimento de softwares desde 2010 e atualmente estou trabalhando no <a href="https://www.nubank.com.br">Nubank</a> como Senior Software Engineer.
+    Trabalho com desenvolvimento de softwares desde 2010 e atualmente estou trabalhando na <a href="https://www.flashapp.com.br">Flash</a> como Staff Software Engineer.
   </p>
 
   <p>
