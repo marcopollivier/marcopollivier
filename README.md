@@ -19,7 +19,7 @@
   <p>Olá! Meu nome é Marco Ollivier.</p>
 
   <p>
-    Sou graduado em Análise e Desenvolvimento de Sistemas pelo [Instituto Infnet](https://faculdadeinfnet.com.br/faculdade/analise-e-desenvolvimento-de-sistemas/) do Rio de Janeiro.
+    Sou graduado em Análise e Desenvolvimento de Sistemas pelo <a href="https://faculdadeinfnet.com.br/faculdade/analise-e-desenvolvimento-de-sistemas/">Instituto Infnet</a> do Rio de Janeiro.
   </p>
   
   <p>
@@ -27,50 +27,10 @@
   </p>
 
   <p>
-    Também sou um dos organizadores do Meetup GopherRio voltado para comunidade de desenvolvedores Go do Rio de Janeiro
-    <br>
-    Em 2019 eu decidi que queria me envolver mais na comunidade de desenvolvimento de softwares e, com dois amigos, 
-    <a href="https://github.com/caioeverest">@caioeverest</a> e
-    <a href="https://github.com/solivaf">@solivaf</a>, 
-    nós repensamos o modelo do grupo de usuários de Golang do Rio de Janeiro
-    <br>
-    O <a href="https://www.meetup.com/GopheRio">Meetup GopheRio</a> foi uma grande conquista para nos e para toda comunidade de desenvolvimento do Rio de Janeiro
-  </p>
-
-  <p>
     Eu adoro compartilhar conhecimento e junto da iniciativa de repensar a comunidade Go no Rio, eu também comecei a particiar em outros eventos da comunidade
     Vocês podem ver parte desse material nos links abaixo.
   </p>
 </div>
-
-
-
-<details close>
-  <summary>🇺🇸  <b>Hi there</b> 👋</summary>
-
-  <br>
-  <p>Hi. My name is Marco Ollivier.</p>
-
-  <p>
-      I have a degree in Systems Analysis from the Infnet Institute in Rio de Janeiro. 
-      I have been working with software development since 2010 and currently, I'm working at <a href="https://www.nubank.com.br">Nubank</a> as a Senior Software Engineer.
-  </p>
-
-  <p>
-    I am also one of the organizers of the GopherRio Meetup aimed at the Go developer community in Rio de Janeiro
-    In 2019 I decided to get more involved in the Software Development Community and with two friends, 
-    <a href="https://github.com/caioeverest">@caioeverest</a> and 
-    <a href="https://github.com/solivaf">@solivaf</a>, 
-    we redesigned the Golang users group in Rio de Janeiro city. 
-    The <a href="https://www.meetup.com/GopheRio">GopheRio Meetup</a> was a great achievement for us and the developers community in Rio.
-  </p>
-
-  <p>
-    I love to share knowledge. And along with the initiative to redesign the Go community in Rio, 
-    I also started to be more participative in other communities and events. You can see a part of my material in the links below.
-  </p>
-  
-</details>
 
 <details close>
 <summary>Outros links</summary>
