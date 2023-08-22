@@ -50,8 +50,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=go,js,ts,clojure,java,aws,docker,git,github,ansible,terraform)](https://skillicons.dev)
 
-[![wakatime](https://wakatime.com/share/@marcopollivier/e271c852-46ed-4694-b37f-9f2b73b8ce62.png)](https://wakatime.com/@99bbc792-f01b-40d9-841c-38b6715ca146)
-
+<a href="https://wakatime.com/@99bbc792-f01b-40d9-841c-38b6715ca146">
+    <img src="https://wakatime.com/share/@marcopollivier/e271c852-46ed-4694-b37f-9f2b73b8ce62.png" alt="wakatime">
+</a>
 --- 
 
 <details open>
