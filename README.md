@@ -12,7 +12,7 @@
 <h3>Olar 👋</h3>
 
 <div>  
-  <img align="right" src="https://media.tenor.com/images/523867fba2a5e8e32703d916728e02bf/tenor.gif"/>
+<!--   <img align="right" src="https://media.tenor.com/images/523867fba2a5e8e32703d916728e02bf/tenor.gif"/> --> <!-- Halph Simpsons -->
   <img align="right" src="https://c.tenor.com/E-e0teqEbLEAAAAC/hi-children.gif"/>
 
   
@@ -50,20 +50,21 @@
 
 [![My Skills](https://skillicons.dev/icons?i=go,js,ts,clojure,java,aws,docker,git,github,ansible,terraform)](https://skillicons.dev)
 
-<a href="https://wakatime.com/@99bbc792-f01b-40d9-841c-38b6715ca146">
-    <img src="https://wakatime.com/share/@marcopollivier/e271c852-46ed-4694-b37f-9f2b73b8ce62.png" alt="wakatime" style="width: 600px;">
-</a>
+<br> 
 
---- 
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
-<details open>
-  <summary>⚙ <b>GitHub Analytics</b>: </summary>
-  <br>
-  <p align="center">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marcopollivier&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marcopollivier&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </p>
-</details>
+  <a href="https://wakatime.com/@99bbc792-f01b-40d9-841c-38b6715ca146">
+      <img src="https://wakatime.com/share/@marcopollivier/e271c852-46ed-4694-b37f-9f2b73b8ce62.png" alt="wakatime" style="width: 600px;">
+  </a>
+
+  <div style="display: flex; flex-direction: column; gap: 10px;">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marcopollivier&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marcopollivier&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true" />
+  </div>
+
+</div>
+
 
 <br>
 
