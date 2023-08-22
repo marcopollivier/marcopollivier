@@ -12,7 +12,7 @@
 <h3>Olar 👋</h3>
 
 <div>  
-<!--   <img align="right" src="https://media.tenor.com/images/523867fba2a5e8e32703d916728e02bf/tenor.gif"/> -->
+  <img align="right" src="https://media.tenor.com/images/523867fba2a5e8e32703d916728e02bf/tenor.gif"/>
   <img align="right" src="https://c.tenor.com/E-e0teqEbLEAAAAC/hi-children.gif"/>
 
   
@@ -53,6 +53,7 @@
 <a href="https://wakatime.com/@99bbc792-f01b-40d9-841c-38b6715ca146">
     <img src="https://wakatime.com/share/@marcopollivier/e271c852-46ed-4694-b37f-9f2b73b8ce62.png" alt="wakatime" style="width: 600px;">
 </a>
+
 --- 
 
 <details open>
