@@ -78,7 +78,7 @@
     </tr>
     <tr>
       <th>
-        <a href="https://github.com/marcopollivier?tab=repositories&q=class.&type=&language=&sort=name">presentation.*</a>
+        <a href="https://github.com/marcopollivier?tab=repositories&q=presentation.&type=&language=&sort=name">presentation.*</a>
       </th>
       <td>Repositórios base para apresentações e talks</td>
     </tr>
