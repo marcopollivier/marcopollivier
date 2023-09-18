@@ -78,6 +78,12 @@
     </tr>
     <tr>
       <th>
+        <a href="https://github.com/marcopollivier?tab=repositories&q=class.&type=&language=&sort=name">presentation.*</a>
+      </th>
+      <td>Repositórios base para apresentações e talks</td>
+    </tr>
+    <tr>
+      <th>
         <a href="https://github.com/marcopollivier?tab=repositories&q=class.&type=&language=&sort=name">class.*</a>
       </th>
       <td>Repositórios base para turmas dos meus cursos</td>
