@@ -19,34 +19,13 @@
   <p>Olá! Meu nome é Marco Ollivier.</p>
 
   <p>
-    Sou graduado em Análise e Desenvolvimento de Sistemas pelo <a href="https://faculdadeinfnet.com.br/faculdade/analise-e-desenvolvimento-de-sistemas/">Instituto Infnet</a> do Rio de Janeiro.
+    Sou formado em Análise e Desenvolvimento de Sistemas pelo Instituto Infnet do Rio de Janeiro e em Arquitetura de Softwares pela PUC-MG.
   </p>
   
   <p>
-    Trabalho com desenvolvimento de softwares desde 2010 e atualmente estou trabalhando na <a href="https://www.flashapp.com.br">Flash</a> como Staff Software Engineer.
-  </p>
-
-  <p>
-    Eu adoro compartilhar conhecimento e junto da iniciativa de repensar a comunidade Go no Rio, eu também comecei a particiar em outros eventos da comunidade
-    Vocês podem ver parte desse material nos links abaixo.
+    Trabalho com desenvolvimento de softwares desde 2009 e atualmente estou trabalhando como Head de Engenharia na <a href="https://www.amora.com.br">aMORA</a>.
   </p>
 </div>
-
-<details close>
-<summary>Outros links</summary>
-<ul>
-  <li>
-    <a href="https://marcopollivier.dev">Site pessoal</a>
-  </li>
-  <li>
-    <a href="https://thedevconf.com/palestrante/marco-ollivier">TDC Profile</a>
-  </li>
-  <li>
-    <a href="https://www.infoq.com/br/presentations/traefik-proxy-poderoso-confiavel-producao">[InfoQ] Talk sobre Traefik na GopherCon Brasil 2019</a>
-  </li>
-</ul>
-</details>
-
 
 [![My Skills](https://skillicons.dev/icons?i=go,js,ts,clojure,java,aws,docker,git,github,ansible,terraform)](https://skillicons.dev)
 
