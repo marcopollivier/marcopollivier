@@ -1,8 +1,4 @@
 # Marco Ollivier 
-[![Profile Views Counter](https://komarev.com/ghpvc/?username=marcopollivier&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter) 
-[![wakatime](https://wakatime.com/badge/user/99bbc792-f01b-40d9-841c-38b6715ca146.svg)](https://wakatime.com/@99bbc792-f01b-40d9-841c-38b6715ca146)
-
-
 <p align="center">
   <!-- instagram -->
   <a href="https://instagram.com/marcopollivier">
@@ -136,6 +132,9 @@
 https://shields.io/category/social
 https://simpleicons.org/
 -->
+
+[![Profile Views Counter](https://komarev.com/ghpvc/?username=marcopollivier&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter) 
+[![wakatime](https://wakatime.com/badge/user/99bbc792-f01b-40d9-841c-38b6715ca146.svg)](https://wakatime.com/@99bbc792-f01b-40d9-841c-38b6715ca146)
 
 <!--START_SECTION:waka-->
 <figure><embed src="https://wakatime.com/share/@marcopollivier/55eb5116-3f35-4dc7-8d9b-c267ff6a004c.svg"></embed></figure>
