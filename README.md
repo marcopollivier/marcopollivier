@@ -40,9 +40,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs&perline=9)](https://github.com/marcopollivier?tab=repositories)
 
-<!-- DB -->
+<!-- DB and messaging -->
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,dynamodb,postgres,redis&perline=9)](https://github.com/marcopollivier?tab=repositories)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,dynamodb,postgres,redis,kafka,rabbitmq&perline=9)](https://github.com/marcopollivier?tab=repositories)
 
 <!-- Cloud -->
 
@@ -50,7 +50,7 @@
 
 <!-- Infra -->
 
-[![My Skills](https://skillicons.dev/icons?i=docker,terraform,ansible,kafka,kubernetes&perline=9)](https://github.com/marcopollivier?tab=repositories)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,prometheus,grafana&perline=9)](https://github.com/marcopollivier?tab=repositories)
 
 <!-- IoT -->
 
