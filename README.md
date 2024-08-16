@@ -2,12 +2,33 @@
 [![Profile Views Counter](https://komarev.com/ghpvc/?username=marcopollivier&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter) 
 [![wakatime](https://wakatime.com/badge/user/99bbc792-f01b-40d9-841c-38b6715ca146.svg)](https://wakatime.com/@99bbc792-f01b-40d9-841c-38b6715ca146)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcopollivier/)](https://www.linkedin.com/in/marcopollivier/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/marcopollivier)](https://twitter.com/marcopollivier)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white&link=https://youtube.com/marcopollivier)](https://youtube.com/marcopollivier)
-[![Dev.to Badge](https://img.shields.io/badge/-Dev.to-363D44?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/marcopollivier)](https://dev.to/marcopollivier)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mollivier.dev@gmail.com)](mailto:mollivier.dev@gmail.com/)
 
+<p>
+  <!-- linkedin -->
+  <a href="https://www.linkedin.com/in/marcopollivier/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  
+  <!-- twitter -->
+  <a href="https://twitter.com/marcopollivier">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  
+  <!-- dev.to -->
+  <a href="https://dev.to/marcopollivier">
+    <img src="https://skillicons.dev/icons?i=devto" />
+  </a>
+
+  <!-- instagram -->
+  <a href="https://instagram.com/marcopollivier">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+
+  <!-- gmail -->
+  <a href="mailto:me@marcopollivier.dev">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 <h3>Olar 👋</h3>
 
