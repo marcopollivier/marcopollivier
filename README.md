@@ -32,7 +32,7 @@
   </p>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=go,js,ts,clojure,java,aws,docker,git,github,ansible,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,js,ts,clojure,java,aws,docker,git,github,ansible,terraform&perline=6)](https://skillicons.dev)
 
 <br> 
 
