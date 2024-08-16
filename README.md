@@ -3,7 +3,7 @@
 [![wakatime](https://wakatime.com/badge/user/99bbc792-f01b-40d9-841c-38b6715ca146.svg)](https://wakatime.com/@99bbc792-f01b-40d9-841c-38b6715ca146)
 
 
-<p>
+<p align="center">
   <!-- instagram -->
   <a href="https://instagram.com/marcopollivier">
     <img src="https://skillicons.dev/icons?i=instagram" />
