@@ -23,7 +23,12 @@
   </p>
   
   <p>
-    Trabalho com desenvolvimento de softwares desde 2009 e atualmente estou trabalhando como Head de Engenharia na <a href="https://www.amora.com.br">aMORA</a>.
+    Trabalho com desenvolvimento de softwares desde 2009, tendo passado por empresas como Nubank, OLX e Flash. 
+  </p>
+
+  
+  <p>
+    Também sou instrutor Java na Ada Tech. 
   </p>
 </div>
 
