@@ -4,24 +4,25 @@
 
 
 <p>
+  <!-- instagram -->
+  <a href="https://instagram.com/marcopollivier">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  
   <!-- linkedin -->
   <a href="https://www.linkedin.com/in/marcopollivier/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   
-  <!-- twitter -->
+  <!-- twitter 
   <a href="https://twitter.com/marcopollivier">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
+  -->
   
   <!-- dev.to -->
   <a href="https://dev.to/marcopollivier">
     <img src="https://skillicons.dev/icons?i=devto" />
-  </a>
-
-  <!-- instagram -->
-  <a href="https://instagram.com/marcopollivier">
-    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 
   <!-- gmail -->
