@@ -32,7 +32,27 @@
   </p>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=go,js,ts,clojure,java,aws,docker,git,github,ansible,terraform&perline=6)](https://skillicons.dev)
+<!-- https://skillicons.dev -->
+<!-- BE -->
+[![My Skills](https://skillicons.dev/icons?i=go,js,ts,clojure,java,c,lua,nestjs,nodejs&perline=6)](https://github.com/marcopollivier?tab=repositories)
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,dynamodb,postgres,redis&perline=6)](https://github.com/marcopollivier?tab=repositories)
+
+<!-- FE -->
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs&perline=6)](https://github.com/marcopollivier?tab=repositories)
+
+<!-- Cloud -->
+
+[![My Skills](https://skillicons.dev/icons?i=aws,vercel&perline=6)](https://github.com/marcopollivier?tab=repositories)
+
+<!-- Infra -->
+
+[![My Skills](https://skillicons.dev/icons?i=docker,terraform,ansible,kafka,kubernetes&perline=6)](https://github.com/marcopollivier?tab=repositories)
+
+<!-- IoT -->
+
+[![My Skills](https://skillicons.dev/icons?i=arduino&perline=6)](https://github.com/marcopollivier?tab=repositories)
 
 <br> 
 
