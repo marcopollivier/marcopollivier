@@ -34,11 +34,8 @@
 
 <!-- https://skillicons.dev -->
 <!-- BE -->
-[![My Skills](https://skillicons.dev/icons?i=go,c,java,clojure,lua,js,ts,nodejs,nestjs&perline=7)](https://github.com/marcopollivier?tab=repositories)
+[![My Skills](https://skillicons.dev/icons?i=go,c,java,clojure,lua,js,ts,nodejs,nestjs,react,nextjs&perline=7)](https://github.com/marcopollivier?tab=repositories)
 
-<!-- FE -->
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs&perline=7)](https://github.com/marcopollivier?tab=repositories)
 
 <!-- DB and messaging -->
 
