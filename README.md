@@ -34,7 +34,7 @@
 
 <!-- https://skillicons.dev -->
 <!-- BE -->
-[![My Skills](https://skillicons.dev/icons?i=go,clojure,java,c,lua,nodejs,nestjs,js,ts&perline=9)](https://github.com/marcopollivier?tab=repositories)
+[![My Skills](https://skillicons.dev/icons?i=go,c,java,clojure,lua,js,ts,nodejs,nestjs&perline=9)](https://github.com/marcopollivier?tab=repositories)
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,dynamodb,postgres,redis&perline=9)](https://github.com/marcopollivier?tab=repositories)
 
