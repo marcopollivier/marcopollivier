@@ -36,11 +36,13 @@
 <!-- BE -->
 [![My Skills](https://skillicons.dev/icons?i=go,c,java,clojure,lua,js,ts,nodejs,nestjs&perline=9)](https://github.com/marcopollivier?tab=repositories)
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,dynamodb,postgres,redis&perline=9)](https://github.com/marcopollivier?tab=repositories)
-
 <!-- FE -->
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs&perline=9)](https://github.com/marcopollivier?tab=repositories)
+
+<!-- DB -->
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,dynamodb,postgres,redis&perline=9)](https://github.com/marcopollivier?tab=repositories)
 
 <!-- Cloud -->
 
@@ -52,7 +54,7 @@
 
 <!-- IoT -->
 
-[![My Skills](https://skillicons.dev/icons?i=arduino&perline=9)](https://github.com/marcopollivier?tab=repositories)
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi&perline=9)](https://github.com/marcopollivier?tab=repositories)
 
 <br> 
 
