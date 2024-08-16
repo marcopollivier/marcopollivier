@@ -44,13 +44,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,dynamodb,postgres,redis,kafka,rabbitmq&perline=9)](https://github.com/marcopollivier?tab=repositories)
 
-<!-- Cloud -->
-
-[![My Skills](https://skillicons.dev/icons?i=aws,vercel&perline=9)](https://github.com/marcopollivier?tab=repositories)
-
-<!-- Infra -->
-
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,prometheus,grafana&perline=9)](https://github.com/marcopollivier?tab=repositories)
+<!-- Cloud and infra -->
+[![My Skills](https://skillicons.dev/icons?i=aws,vercel,docker,kubernetes,terraform,ansible,prometheus,grafana&perline=9)](https://github.com/marcopollivier?tab=repositories)
 
 <!-- IoT -->
 
