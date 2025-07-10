@@ -1,7 +1,7 @@
 # Marco Ollivier 
 <p align="center">
   <!-- instagram -->
-  <a href="https://instagram.com/marcopollivier">
+  <a href="https://instagram.com/omarcodev">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   
@@ -16,15 +16,17 @@
   </a>
   -->
   
-  <!-- dev.to -->
+  <!-- dev.to 
   <a href="https://dev.to/marcopollivier">
     <img src="https://skillicons.dev/icons?i=devto" />
   </a>
+  -->
 
-  <!-- gmail -->
+  <!-- gmail 
   <a href="mailto:me@marcopollivier.dev">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+  -->
 </p>
 
 <h3>Olar 👋</h3>
@@ -52,20 +54,18 @@
 
 <!-- https://skillicons.dev -->
 <!-- BE -->
-[![My Skills](https://skillicons.dev/icons?i=go,java,clojure,lua,js,ts,nodejs,nestjs,react,nextjs&perline=10)](https://github.com/marcopollivier?tab=repositories)
-
+<!-- [![My Skills](https://skillicons.dev/icons?i=go,java,clojure,lua,js,ts,nodejs,nestjs,react,nextjs&perline=10)](https://github.com/marcopollivier?tab=repositories) -->
+[![My Skills](https://skillicons.dev/icons?i=go,java,clojure,lua,js,ts,nodejs&perline=10)](https://github.com/marcopollivier?tab=repositories)
 
 <!-- DB and messaging -->
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,dynamodb,postgres,redis,kafka,rabbitmq&perline=10)](https://github.com/marcopollivier?tab=repositories)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,dynamodb,redis,kafka,rabbitmq&perline=10)](https://github.com/marcopollivier?tab=repositories)
 
 <!-- Cloud and infra -->
 [![My Skills](https://skillicons.dev/icons?i=aws,vercel,docker,kubernetes,terraform,ansible,prometheus,grafana&perline=10)](https://github.com/marcopollivier?tab=repositories)
 
-<!-- IoT -->
-
+<!-- IoT 
 [![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi&perline=10)](https://github.com/marcopollivier?tab=repositories)
-
+-->
 <br> 
 
 [![Profile Views Counter](https://komarev.com/ghpvc/?username=marcopollivier&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter) 
