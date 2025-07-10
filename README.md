@@ -69,7 +69,6 @@
 -->
 <br> 
 
-[![Profile Views Counter](https://komarev.com/ghpvc/?username=marcopollivier&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter) 
 [![wakatime](https://wakatime.com/badge/user/99bbc792-f01b-40d9-841c-38b6715ca146.svg)](https://wakatime.com/@99bbc792-f01b-40d9-841c-38b6715ca146)
 <div style="display: flex; justify-content: space-between; align-items: center;">
 
