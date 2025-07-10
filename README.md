@@ -48,7 +48,7 @@
 
   
   <p>
-    Também sou instrutor Java na Ada Tech. 
+    Sou Staff Engineer na @neon e professor na @fiap
   </p>
 </div>
 
