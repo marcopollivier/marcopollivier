@@ -77,11 +77,13 @@
   </a>
 
   <div style="display: flex; flex-direction: column; gap: 10px;">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marcopollivier&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marcopollivier&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marcopollivier" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcopollivier&layout=compact&langs_count=8&card_width=320&hide=shell,makefile" />
   </div>
 
 </div>
+
+
 
 
 <br>
